@@ -1,7 +1,7 @@
 Eritrea
 =======
 
-![](img/Flag_of_Eritrea.svg.png)
+<!--![](img/Flag_of_Eritrea.svg.png)-->
 
 ### Country Analysis & Refugee Situation
 
@@ -9,6 +9,7 @@ Eritrea
 [@ernstki](http://twitter.com/ernstki)
 
 for Dr. Rodriguez's 16FS ANTH3065
+
 * [bit.ly/anth3065-eritrea](https://bit.ly/anth3065-eritrea)
 * [github.com/ernstki/anth3065-eritrea-slides](https://github.com/ernstki/anth3065-eritrea-slides)
 
@@ -27,7 +28,7 @@ Book](https://www.cia.gov/library/publications/the-world-factbook/geos/er.html)
 Facts (cont'd)
 --------------
 
-[![](img/maps/ER_area.jpg)](img/maps/ER_area.jpg)
+<!--[![](img/maps/ER_area.jpg)](img/maps/ER_area.jpg)-->
 
 | Total area: | 117,600 sq km (≈ Pennsylvania)                           |
 |-------------|----------------------------------------------------------|
@@ -46,7 +47,7 @@ Two predominant religions are Christianity and Islam
 
 Official languages are Tigrinya and English
 
-[![Eritrea](https://c1.staticflickr.com/1/120/285576304_5c7324a1f1_z.jpg)](https://www.flickr.com/photos/mytripsmypics/albums/72057594063070918 "Eritrea")
+<!--[![Eritrea](https://c1.staticflickr.com/1/120/285576304_5c7324a1f1_z.jpg)](https://www.flickr.com/photos/mytripsmypics/albums/72057594063070918 "Eritrea")-->
 
 Architecture
 ============
@@ -181,7 +182,7 @@ Eritrea ranks 4th highest in Mediterranean arrivals in 2014–2015
 Refugees (cont'd)
 -----------------
 
-[![](img/maps/overland_route.png)](img/maps/overland_route.png)
+<!--[![](img/maps/overland_route.png)](img/maps/overland_route.png)-->
 
 Most refugees take the overland route through Sudan, Libya, then to
 Lampedusa in the Mediterranean
@@ -247,11 +248,11 @@ Links
     Eritrea](https://documents-dds-ny.un.org/doc/UNDOC/GEN/G15/114/50/PDF/G1511450.pdf?OpenElement)
     (UNGA)
 
-THE END
-=======
-
-### Thanks for your kind attention.
-
-### …and here's a fluffy kitten:
-
-![](img/kitten.jpg)
+<!--THE END-->
+<!--=======-->
+<!---->
+<!--### Thanks for your kind attention.-->
+<!---->
+<!--### …and here's a fluffy kitten:-->
+<!---->
+<!--![](img/kitten.jpg)-->
