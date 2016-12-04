@@ -29,7 +29,7 @@ Facts (cont'd)
 
 [![](img/maps/ER_area.jpg)](img/maps/ER_area.jpg)
 
-| Total area: | 117,600 sq km (≈ Pennsylvania)                    |
+| Total area: | 117,600 sq km (≈ Pennsylvania)                           |
 |-------------|----------------------------------------------------------|
 | Borders:    | Djibouti, Red Sea (1,151 km), Ethiopia (1,033 km), Sudan |
 | Population: | 5,869,869 (2016 est.)                                    |
@@ -68,7 +68,7 @@ Economy & Daily Life
 -   Mostly agrarian; most citizens do compulsory work for gov't
 -   gold mining began to pick up in 2000s, but US sanctions hurt
     industry
--   Country is \~32% electrified; few (are allowed to) have telephones
+-   Country is ~32% electrified; few (are allowed to) have telephones
 -   Movement within the country requires special permits
 -   "National service" compulsory; maintains militarized border between
     Eritrea/Ethiopia
@@ -89,9 +89,8 @@ Justification is defense against Ethiopia (US proxy).
 Source: [Report of the Commission of Inquiry on Human Rights in
 Eritrea](http://www.ohchr.org/EN/HRBodies/HRC/CoIEritrea/Pages/2016ReportCoIEritrea.aspx)
 
-Colonial Control &\
-Western Hegemony
--------------------
+Colonial Control & Western Hegemony
+-----------------------------------
 
 Long controlled by colonial powers (Italy, GB), became an independent
 nation in 1993 after a 30-year war with Ethiopia.
@@ -128,8 +127,7 @@ Governance
 Government was installed after 1991 independence; Isaias Afewerki first
 and only president
 
-People’s Front for Democracy and Justice (PFDJ) \
-is sole political party
+People’s Front for Democracy and Justice (PFDJ) is sole political party
 
 Constitution drafted in 1997 but never implemented
 
@@ -149,7 +147,7 @@ Western (UN) claims
 
 -   No freedom of press (only state-run media)
 -   No freedom of movement for citizens
--   Human rights abuses in prisons & national service
+-   Human rights abuses in prisons &amp; national service
 -   Gov't supports al-Shabaab terrorist group
 -   Does not cooperate with "international community"
 
@@ -197,7 +195,7 @@ Refugees (cont'd)
 -----------------
 
 Since late 90s, nearly 5% of population has fled to neighboring
-countries and Europe (pop. \~6 million)
+countries and Europe (pop. ~6 million)
 
 -   causes economic harm to those who stay
 -   if regime's claims are true, most economic migrants
